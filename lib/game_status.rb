@@ -16,7 +16,7 @@ end
   [6,4,2],
  ]
   def won?(board)
-    
+    WIN_COMBINATIONS.each 
   end
  
  def draw?(board)
