@@ -44,6 +44,8 @@ end
  
  
  def draw?(board)
+     board.all? do |index|
+    index == "X" || index == "O"
  end
  
  def over?(board)
