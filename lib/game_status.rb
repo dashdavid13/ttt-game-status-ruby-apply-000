@@ -6,6 +6,14 @@ end
 # Define your WIN_COMBINATIONS constant
  win_combinations =
  [
+  
+  
+  
+  
+  
+  
+  
+  
    ]
   
  
