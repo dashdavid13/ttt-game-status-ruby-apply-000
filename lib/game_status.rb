@@ -15,6 +15,13 @@ end
   [0,4,8],
   [6,4,2],
  ]
-  def won? 
+  def won?(board)
   end
  
+ def draw?(board)
+ end
+ 
+ def over?(board)
+ end
+ 
+ def winner
